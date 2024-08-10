@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development projects which may or may not include AI
 - 📫 How to reach me - harishstriker3@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play a lot of video games, badminton and football and experiment on projects
+- ⚡ Fun fact: I experiment on projects and play a lot of video games, badminton and football.
 
 <!---
 Harish-MH/Harish-MH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
